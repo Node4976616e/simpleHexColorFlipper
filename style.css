@@ -1,0 +1,26 @@
+#container {
+  width: 500px;
+  height: 500px;
+  color: aliceblue;
+  box-shadow: 0px 5px 5px rgb(148, 148, 148);
+  margin: 0 auto;
+  text-align: center;
+  background-color: blueviolet;
+}
+
+#color-code {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 1rem;
+  margin-top: 0.2rem;
+  border-radius: 15px;
+}
+
+body {
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
